@@ -1,0 +1,15 @@
+{
+  "name": "com.7chords.scframe",
+  "version": "0.1.0",
+  "displayName": "SCFrame",
+  "description": "7Chords SCFrame Unity framework: singleton, message center, task helper, UI and settings utilities.",
+  "unity": "2022.3",
+  "author": {
+    "name": "7Chords"
+  },
+  "keywords": [
+    "scframe",
+    "unity",
+    "framework"
+  ]
+}
